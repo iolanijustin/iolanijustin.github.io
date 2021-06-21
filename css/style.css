@@ -44,7 +44,7 @@ img {
 /* SITE STRUCTURE */
 
 header {
-    background-color: rgba(0, 102, 204, 1);
+    background-color: rgb(26, 55, 219);
     color: rgba(0, 0, 0, 0.8); 
     padding: 1em;
     display: grid;
@@ -88,7 +88,7 @@ main {
 
 /* HERO SECTION */
 .hero {
-    background-color: rgba(0, 102, 204, 1);
+    background-color: rgb(26, 55, 219);
     text-align: center;
     color: white;
     padding: 6em 1em;
