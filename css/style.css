@@ -25,26 +25,26 @@ img {
     display: inline-block;
     padding: 1em 2em;
     text-decoration: none;
-    background-color: rgba(0, 102, 204, .8);
+    background-color: rgb(5, 112, 116);
     color: white;
     border-radius: 5px;
 }
 .button:hover {
-    background-color: rgba(0, 102, 204, 1);
+    background-color: rgba(5, 112, 116);
     color: white;
 }
 .button.dark {
     color: rgba(0, 102, 204, 1);
-    background-color: rgba(255, 255, 255,.8);
+    background-color: rgba(255, 255, 255, 0.8);
 }
 .button.dark:hover {
-    background-color: rgba(255, 255, 255,1);
+    background-color: rgb(255, 255, 255);
 }
 
 /* SITE STRUCTURE */
 
 header {
-    background-color: rgb(26, 55, 219);
+    background-color: rgb(55, 0, 255);
     color: rgba(0, 0, 0, 0.8); 
     padding: 1em;
     display: grid;
@@ -88,7 +88,7 @@ main {
 
 /* HERO SECTION */
 .hero {
-    background-color: rgb(26, 55, 219);
+    background-color: rgb(55, 0, 255);
     text-align: center;
     color: white;
     padding: 6em 1em;
@@ -128,7 +128,7 @@ main {
 
 /* FOOTER */
 footer {
-    border-top: 1px solid rgba(0,0,0,.05);
+    border-top: 1px solid rgba(0, 0, 0, 0);
     padding: 1em;
 }
 
